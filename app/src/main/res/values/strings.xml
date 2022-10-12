@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RealmDatabase</string>
+    <string name="realm_database">Realm Database</string>
+    <string name="enter_an_id">Enter an ID</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="enter_an_email">Enter an Email</string>
+    <string name="add">Add</string>
+    <string name="read">Read</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
